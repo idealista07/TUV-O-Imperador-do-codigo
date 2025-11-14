@@ -1,0 +1,16 @@
+# Capítulo 1: O Chamado do Kernel
+
+> "No silêncio do código, uma centelha despertou. TUX, o imperador, ergueu sua lâmina de luz diante da Árvore do Sistema..."
+
+## 🌌 Narrativa
+O universo digital estava mergulhado no caos. Sistemas fechados dominavam as galáxias da informação. Mas, das profundezas do código livre, surgiu um pinguim com armadura imperial: TUX. Sua missão? Libertar os usuários do jugo das licenças proprietárias.
+
+## 🛠 Parte Técnica
+Antes de empunhar sua espada, TUX precisava construir sua base: o Kernel.
+
+### Instalação do Linux
+```bash
+# Atualize pacotes
+sudo apt update && sudo apt upgrade -y
+
+# Instale o kernel mais recente
