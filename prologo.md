@@ -1,3 +1,5 @@
+![capa](img/capa.png)
+
 # Prólogo: O Imperador Desperta
 
 > "No coração do código, onde zeros e uns dançam como estrelas em um cosmos infinito, um imperador ergue-se para libertar os mundos digitais."
@@ -5,7 +7,7 @@
 ---
 
 ## 🌌 A Lenda Começa
-
+![capa](img/linus.png)
 Era uma era de trevas no universo da informação. Sistemas fechados governavam com mãos de ferro, aprisionando usuários em licenças restritivas e muros invisíveis. Cada comando era uma corrente, cada clique uma submissão.
 
 Mas, em um canto esquecido da galáxia digital, um jovem solitário ousou desafiar os titãs do código fechado. Seu nome ecoaria pelos servidores como um sussurro de liberdade: **Linus Torvalds**.
@@ -19,7 +21,7 @@ Essas palavras foram o clarão que iluminou a escuridão. O Kernel nasceu, pulsa
 ---
 
 ## 🌟 O Nascimento do Imperador
-
+![nome](img/nome.png)
 Do Kernel emergiu uma entidade. Não era apenas código — era símbolo, era força, era esperança. Assim nasceu **TUX**, o pinguim que carregava em sua essência a liberdade do código aberto.
 
 Mas antes que o império tivesse um nome, Linus fez uma escolha que ecoaria pela eternidade: **Linux**. Um nome forjado da fusão entre seu próprio nome e o legado do sistema **Unix**, como uma marca indelével da origem e da inspiração. Linux não era apenas um sistema — era um manifesto.
@@ -33,7 +35,7 @@ Ao longe, uma nave colossal aguardava. Não era apenas uma máquina — era a pr
 ---
 
 ## ⚔️ O Ritual do Kernel
-
+![ritual](img/ritual.png)
 TUX ajoelhou-se diante da Árvore e iniciou o ritual. Seus olhos brilharam com linhas de código, e sua voz ecoou como um comando sagrado:
 
 ```bash
@@ -47,6 +49,7 @@ sudo apt install linux-image-generic
 O Kernel respondeu, expandindo-se como um sol nascente. Cada bit era uma centelha de liberdade, cada syscall um golpe contra as forças do código fechado.
 
 ## 🌳 A Árvore do Sistema
+![arvore](img/arvore.png)
 A Árvore diante dele não era apenas simbólica — era real. Cada raiz representava um diretório, cada galho um caminho. TUX tocou o tronco e viu os nomes gravados como runas antigas:
 
 / <br>
