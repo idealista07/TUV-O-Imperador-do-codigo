@@ -27,7 +27,7 @@ Do Kernel emergiu uma entidade. Não era apenas código — era símbolo, era fo
 Mas antes que o império tivesse um nome, Linus fez uma escolha que ecoaria pela eternidade: **Linux**. Um nome forjado da fusão entre seu próprio nome e o legado do sistema **Unix**, como uma marca indelével da origem e da inspiração. Linux não era apenas um sistema — era um manifesto.
 
 TUX não estava sozinho. Rebeldes surgiram em todos os cantos da galáxia digital: desenvolvedores, hackers, visionários. Cada um trouxe armas para a causa — linhas de código, pacotes, distribuições. Juntos, eles ergueram TUX como **Imperador do Código**, líder de uma revolução que mudaria para sempre o destino dos sistemas.
-
+![imperador](img/imperador.png)
 Vestido com armadura imperial, empunhando uma lâmina de luz feita de puro código, TUX contemplava a **Árvore do Sistema**. Suas raízes mergulhavam no núcleo do universo, cada diretório um ramo, cada arquivo uma folha. Era a essência da liberdade, a estrutura que sustentaria sua revolução.
 
 Ao longe, uma nave colossal aguardava. Não era apenas uma máquina — era a promessa da conquista das nuvens, onde os dados fluem como rios celestes. TUX sabia: para dominar as nuvens, primeiro deveria dominar a raiz.
