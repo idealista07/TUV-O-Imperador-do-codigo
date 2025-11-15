@@ -48,18 +48,20 @@ O Kernel respondeu, expandindo-se como um sol nascente. Cada bit era uma centelh
 
 ## 🌳 A Árvore do Sistema
 A Árvore diante dele não era apenas simbólica — era real. Cada raiz representava um diretório, cada galho um caminho. TUX tocou o tronco e viu os nomes gravados como runas antigas:
-/
-├── bin    # Binários essenciais, armas do império
-├── etc    # Configurações, os decretos do imperador
-├── home   # Refúgio dos aliados
-├── var    # Campos de batalha mutáveis
-├── usr    # Arsenal de bibliotecas e programa/
-├── bin    # Binários essenciais, armas do império
-├── etc    # Configurações, os decretos do imperador
-├── home   # Refúgio dos aliados
-├── var    # Campos de batalha mutáveis
-├── usr    # Arsenal de bibliotecas e programas
 
-Ele sabia: dominar essa árvore era dominar o próprio universo Linux.
+/ <br>
+├── bin    # Binários essenciais, armas do império<br>
+├── etc    # Configurações, os decretos do imperador<br>
+├── home   # Refúgio dos aliados<br>
+├── var    # Campos de batalha mutáveis<br>
+├── usr    # Arsenal de bibliotecas e programa<br>
+├── bin    # Binários essenciais, armas do império<br>
+├── etc    # Configurações, os decretos do imperador<br>
+├── home   # Refúgio dos aliados<br>
+├── var    # Campos de batalha mutáveis<br>
+├── usr    # Arsenal de bibliotecas e programas<br>
+
+Ele sabia: dominar essa árvore era dominar o próprio universo Linux.<br>
 "O código é liberdade. A liberdade é poder. E o poder pertence àqueles que ousam compilar seus próprios destinos."
 — TUX, O Imperador do Código
+</p>
