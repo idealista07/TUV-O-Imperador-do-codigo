@@ -10,11 +10,11 @@
 ![capa](img/linus.png)
 Era uma era de trevas no universo da informação. Sistemas fechados governavam com mãos de ferro, aprisionando usuários em licenças restritivas e muros invisíveis. Cada comando era uma corrente, cada clique uma submissão.
 
-Mas, em um canto esquecido da galáxia digital, um jovem solitário ousou desafiar os titãs do código fechado. Seu nome ecoaria pelos servidores como um sussurro de liberdade: **Linus Torvalds**.
+Mas, em um canto esquecido da galáxia digital, um jovem solitário ousou desafiar os titãs do código fechado. Seu nome ecoaria pelos servidores como um sussurro de liberdade: [**Linus Torvalds**](https://github.com/torvalds).
 
 Linus não tinha exércitos, nem impérios. Apenas uma ideia e um teclado. Em noites silenciosas, ele forjou as primeiras linhas do que seria chamado de **Kernel** — um núcleo puro, livre, capaz de dar vida a sistemas abertos. Ele escreveu:
 
-> *"Estou fazendo um sistema operacional (apenas um hobby, não será grande e profissional como o GNU)..."*
+> *"Estou fazendo um sistema operacional (apenas um hobby, não será grande e profissional como o [GNU](https://www.gnu.org/home.pt-br.html))..."*
 
 Essas palavras foram o clarão que iluminou a escuridão. O Kernel nasceu, pulsando como um coração recém-criado. Mas Linus sabia: para que essa chama se tornasse fogo, precisaria de algo mais.
 
@@ -24,7 +24,7 @@ Essas palavras foram o clarão que iluminou a escuridão. O Kernel nasceu, pulsa
 ![nome](img/nome.png)
 Do Kernel emergiu uma entidade. Não era apenas código — era símbolo, era força, era esperança. Assim nasceu **TUX**, o pinguim que carregava em sua essência a liberdade do código aberto.
 
-Mas antes que o império tivesse um nome, Linus fez uma escolha que ecoaria pela eternidade: **Linux**. Um nome forjado da fusão entre seu próprio nome e o legado do sistema **Unix**, como uma marca indelével da origem e da inspiração. Linux não era apenas um sistema — era um manifesto.
+Mas antes que o império tivesse um nome, Linus fez uma escolha que ecoaria pela eternidade: **Linux**. Um nome forjado da fusão entre seu próprio nome e o legado do sistema [**Unix**](https://pt.wikipedia.org/wiki/Unix), como uma marca indelével da origem e da inspiração. Linux não era apenas um sistema — era um manifesto.
 
 TUX não estava sozinho. Rebeldes surgiram em todos os cantos da galáxia digital: desenvolvedores, hackers, visionários. Cada um trouxe armas para a causa — linhas de código, pacotes, distribuições. Juntos, eles ergueram TUX como **Imperador do Código**, líder de uma revolução que mudaria para sempre o destino dos sistemas.
 ![imperador](img/imperador.png)
